@@ -1,0 +1,7 @@
+13:33:09 **** Rebuild of configuration Debug for project test ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o test.exe "src\\test.o" 
+
+13:33:11 Build Finished (took 2s.629ms)
+
